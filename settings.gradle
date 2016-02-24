@@ -1,2 +1,2 @@
-include ':hellocharts-samples'
+include ':hellocharts-samples', ':achartengine', ':achartengine-samples'
 include ':hellocharts-library'
